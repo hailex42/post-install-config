@@ -37,16 +37,17 @@ Configure Roles (for grouping permissions)
 Admin Panel -> Agents -> Roles
 Supreme Admin
 
-
 </p>
 
 <br />
 
+![image](https://github.com/user-attachments/assets/833f2622-e361-4075-812d-e121388bc205)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)
+Admin Panel -> Agents -> Departments
+SysAdmins
+
 </p>
 <br />
 
