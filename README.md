@@ -60,10 +60,18 @@ Online Banking
 
 </p>
 <br />
+
 ![image](https://github.com/user-attachments/assets/4516667c-04e8-4218-847b-1f8fd39a3878)
+
 <p>Configure Agents (workers)
 Admin Panel -> Agents -> Add New
 Jane (Dept: SysAdmins)
 John (Dept: Support)
 </p>
 
+![image](https://github.com/user-attachments/assets/2d7d9f9a-3211-41d6-9d14-0aeb5871b556)
+<p>Configure Users (customers)
+Agent Panel -> Users -> Add New
+Karen
+Ken
+</p>
