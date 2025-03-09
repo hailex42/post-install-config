@@ -68,13 +68,18 @@ Admin Panel -> Agents -> Add New
 Jane (Dept: SysAdmins)
 John (Dept: Support)
 </p>
+<br />
 
 ![image](https://github.com/user-attachments/assets/2d7d9f9a-3211-41d6-9d14-0aeb5871b556)
-<p>Configure Users (customers)
+
+<p>
+Configure Users (customers)
 Agent Panel -> Users -> Add New
 Karen
 Ken
 </p>
+
+<br />
 
 ![image](https://github.com/user-attachments/assets/db9a3c25-b9c1-4d9c-8ab5-0d2e10bd99af)
 
@@ -84,9 +89,12 @@ Sev-A (Grace Period: 1 hour, Schedule: 24/7)
 Sev-B (Grace Period: 4 hours, Schedule: 24/7)
 Sev-C (Grace Period: 8 hours, Business Hours)
 </p>
+<br />
 
 ![image](https://github.com/user-attachments/assets/eb5a2e5f-093d-47bd-9d86-051992f2c2e0)
-<p>Configure Help Topics (For when users create a ticket)
+
+<p>
+Configure Help Topics (For when users create a ticket)
 Admin Panel -> Manage -> Help Topics
 Business Critical Outage
 Personal Computer Issues
@@ -94,3 +102,4 @@ Equipment Request
 Password Reset
 Other
 </p>
+<br />
