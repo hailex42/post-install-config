@@ -75,3 +75,12 @@ Agent Panel -> Users -> Add New
 Karen
 Ken
 </p>
+
+![image](https://github.com/user-attachments/assets/db9a3c25-b9c1-4d9c-8ab5-0d2e10bd99af)
+
+<p>Configure SLA
+Admin Panel -> Manage -> SLA
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+Sev-C (Grace Period: 8 hours, Business Hours)
+</p>
